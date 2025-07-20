@@ -31,9 +31,14 @@ Mi nombre es **Rosa Estrada**. Estudiante de Ingeniería de Software. 😁 🇵�
 
   <!-- Base de datos -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
+
+  <!-- Herramientas de prueba -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman" />
 
   <!-- Otros -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Microsoft_Office_Logo_%282019–present%29.svg/2048px-Microsoft_Office_Logo_%282019–present%29.svg.png" height="40" alt="Microsoft Office" />
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" height="40" alt="Adobe Illustrator" />
 </p>
 
