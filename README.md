@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Mi nombre es **Rosa Estrada**. Estudiante de Ingeniería de Software. 😁 🇵🇪
+Estudiante de Ingeniería de Software.
 🎯 Interesada en el desarrollo web, backend, frontend y temas de inteligencia artificial.
 
 
@@ -44,6 +44,8 @@ Mi nombre es **Rosa Estrada**. Estudiante de Ingeniería de Software. 😁 🇵�
 </p>
 
 ---
+### 🚀 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/rosa-estrada-estrada/))
 
 
 
