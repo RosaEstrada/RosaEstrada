@@ -45,7 +45,10 @@ Estudiante de Ingeniería de Software.
 
 ---
 ### 🚀 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/rosa-estrada-estrada/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/rosa-estrada-estrada)
+
+))
+
 
 
 
