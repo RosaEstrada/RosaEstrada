@@ -3,7 +3,6 @@
 Mi nombre es **Rosa Estrada**. Estudiante de Ingeniería de Software. 😁 🇵🇪
 🎯 Interesada en el desarrollo web, backend, frontend y temas de inteligencia artificial.
 
-### 🧠 Programming Languages & Tools:
 
 ### 🧠 Tecnologías y herramientas:
 
